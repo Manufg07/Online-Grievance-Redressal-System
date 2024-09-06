@@ -55,7 +55,7 @@ To run this project locally, follow these steps:
     ```
 ## 🤝 Support
 
-If you have any issues or questions, feel free to open an issue or contact us at [support@grievance-system.com](mailto:support@grievance-system.com).
+If you have any issues or questions, feel free to open an issue or contact me.
 
 ---
 
