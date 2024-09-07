@@ -51,7 +51,7 @@ To run this project locally, follow these steps:
 
 1. **Clone the repository**:
     ```bash
-    [git clone https://github.com/your-repo/online-grievance-system.git](https://github.com/Manufg07/Online-Grievance-Redressal-System.git)
+    (https://github.com/Manufg07/Online-Grievance-Redressal-System.git)
     ```
 ## 🤝 Support
 
